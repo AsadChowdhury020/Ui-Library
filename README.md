@@ -48,12 +48,12 @@ src/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ui-component-library.git
+git clone https://github.com/AsadChowdhury020/Ui-Library
 ```
 
 ### 2. Navigate to project folder
 ```bash
-cd ui-component-library
+cd Ui-Library
 ```
 
 ### 3. Install dependencies
